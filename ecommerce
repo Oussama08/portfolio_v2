@@ -1,0 +1,85 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]--><html>
+	<head>
+		<title>Oussama Samoudi - Software Developer</title>
+
+		<!-- META DATA -->
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta name="description" content=""/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0"/>
+
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+		<!-- CSS -->
+		<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+		<link type="text/css" rel="stylesheet" href="./assets/css/styles.min.css?v=1.7" />
+
+		<!-- JAVASCRIPT -->
+		<script type="text/javascript" src="./assets/js/respond.min.js"></script>
+		<script type="text/javascript" src="./assets/js/modernizr.min.js"></script>
+
+	</head>
+	<body class="loading">
+		<div class="project">
+			<div class="project__content">
+				<div class="row">
+					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
+						<p class="text-align--s-left">
+							Conception of an e-commerce application with some creative features and components. This Kit is simple and clean and comes with a soft pack of colors.
+						</p>
+					</div>
+				</div>
+				<div class="row" style="background-color: #efefef;">
+					<div class="column--s-12">
+						<img src="./assets/img/content/ecommerce1/frame12x.png" class="responsive" alt="">
+					</div>
+				</div>
+				
+				<div class="row" style="background-color: #efefef;">
+					<div class="column--s-12">
+						
+						<img src="./assets/img/content/ecommerce1/frame22x.png" class="responsive" alt="">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
+					</div>
+				</div>
+				
+
+				<div>
+					<div class="column--s-12 padding--s-4 text-align--s-center" style="background-color: #efefef;">
+						<p class="subtitled" style="font-size: 17px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Source code soon on my github</p>
+						<p class="subtitled" style="font-size: 17px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Enjoy !</p>
+					</div>
+				</div>
+				
+				
+				<div class="row background-color--white text-align--s-center">
+					<div class="column--s-12 column--m-8 column-offset--m-2 padding--s-3 padding--m-6">
+						<a data-next-project href="#" class="button--hexagon">
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="button__label text-color--white">Next</span>
+						</a>
+					</div>
+				</div>
+				
+
+			</div>
+		</div>
+		
+		<script src="./assets/js/vendor.min.js"></script>
+		<script src="./assets/js/plugins.min.js"></script>
+		<script src="./assets/js/scripts.min.js"></script>
+
+
+	</body>
+
+</html>
